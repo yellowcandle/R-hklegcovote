@@ -1,6 +1,6 @@
 # read data
 x <- legco.division.20121017.20140416.csv.numeric.csv
-names <- legco.members.info1
+names <- legco.members.info
 # run SVD
 svddata <- svd(x[,3:72],nu=2,nv=2)
 # do data frame
