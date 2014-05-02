@@ -7,12 +7,10 @@ svddata <- svd(x[,3:72],nu=2,nv=2)
 dataf <- data.frame(members=names$Members,affi=names$Political.Affiliation,bloc=names$Political.Bloc,v1=svddata$v[,1],v2=svddata$v[,2])
 # labeling for DAB
 dataf$DAB = dataf$members
-View(dataf)
 idx = (dataf$affi=="DAB")
 dataf$DAB[!idx]=NA
 # labeling for PP
 dataf$PP = dataf$members
-View(dataf)
 idx = (dataf$affi=="PP")
 dataf$PP[!idx]=NA
 # plot with ggplot2
