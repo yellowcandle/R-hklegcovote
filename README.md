@@ -16,4 +16,3 @@ R Code:
 ''''R
     ggplot(dataf,aes(x=v1,y=v2,color=bloc))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point(alpha=0.3)+geom_point(data=subset(dataf, affi=="DAB"))+theme_bw()
 ''''
-
