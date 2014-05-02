@@ -14,8 +14,12 @@ dataf$PP = dataf$members
 idx = (dataf$affi=="PP")
 dataf$PP[!idx]=NA
 # plot with ggplot2
-ggplot(dataf,aes(x=v1,y=v2,color=bloc))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point()+geom_text(size=3,hjust=0,alpha=0.5)+theme_bw()
+ggplot(dataf,aes(x=v1,y=v2,color=bloc))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point(alpha=0.5)+geom_text(size=3,hjust=0)+theme_bw()
 # plot with only DAB members labeled
-ggplot(dataf,aes(x=v1,y=v2,color=bloc,label=DAB))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point()+geom_text(size=3,hjust=0,alpha=0.5)+theme_bw()
+ggplot(dataf,aes(x=v1,y=v2,color=bloc,label=DAB))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point()+geom_text(size=3,hjust=0)+theme_bw()
 # plot with only PP members labeled
-ggplot(dataf,aes(x=v1,y=v2,color=bloc,label=PP))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point()+geom_text(size=3,hjust=0,alpha=0.5)+theme_bw()
+ggplot(dataf,aes(x=v1,y=v2,color=bloc,label=PP))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point()+geom_text(size=3,hjust=0)+theme_bw()
+# highlighting only DAB members
+ggplot(dataf,aes(x=v1,y=v2,color=bloc))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point(alpha=0.3)+geom_point(data=subset(dataf, affi=="DAB"))+theme_bw()
+# highlighting only CP members
+ggplot(dataf,aes(x=v1,y=v2,color=bloc))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point(alpha=0.3)+geom_point(data=subset(dataf, affi=="CP"))+theme_bw()
