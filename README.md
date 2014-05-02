@@ -9,7 +9,7 @@ Inspired by [How divided is the Senate?](http://vikparuchuri.com/blog/how-divide
 - [ggplot2](http://ggplot2.org/)
 
 
-# Example plots
+# Example plot
 ![A plot highlighting all DAB members' voting pattern.](https://raw.githubusercontent.com/yellowcandle/R-hklegcovote/master/Rplot02.png)
 A plot highlighting all DAB members' voting pattern.  
 R Code: 
