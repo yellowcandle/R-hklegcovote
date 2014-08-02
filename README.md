@@ -10,9 +10,9 @@ Inspired by [How divided is the Senate?](http://vikparuchuri.com/blog/how-divide
 
 
 # Example plot
-![A plot highlighting all DAB members' voting pattern.](https://raw.githubusercontent.com/yellowcandle/R-hklegcovote/master/Rplot02.png)
+![A plot highlighting all DAB members' voting pattern.](https://raw.githubusercontent.com/yellowcandle/R-hklegcovote/master/Rplot06.png)
 A plot highlighting all DAB members' voting pattern.  
 R Code: 
 ```R   
-ggplot(dataf,aes(x=v1,y=v2,color=bloc))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point(alpha=0.3)+geom_point(data=subset(dataf, affi=="DAB"))+theme_bw()  
+ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc,label=DAB))+geom_point(alpha=0.5)+geom_point(size=3,data=subset(dataf,Political.Affiliation=="DAB"))+theme_bw()+xlim(-.25,.25)+ylim(-.25,.25) 
 ```
