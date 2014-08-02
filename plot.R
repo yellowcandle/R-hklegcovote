@@ -1,28 +1,37 @@
 # load packages
 library("ggplot2")
 
-# read data
-x <- legco.division.20121017.20140416.csv.numeric.csv
-names <- legco.members.info
-# run SVD
-svddata <- svd(x[,3:72],nu=2,nv=2)
-# do data frame
-dataf <- data.frame(members=names$Members,affi=names$Political.Affiliation,bloc=names$Political.Bloc,v1=svddata$v[,1],v2=svddata$v[,2])
+# do SVD
+svd <- svd(votedfv[,3:72],nu=0,nv=2)
+svdv <- svd$v
+rownames(svdv) <- c( "TSANG Yok-sing", "Albert HO", "LEE Cheuk-yan", "James TO", "CHAN Kam-lam", "LEUNG Yiu-chung", "Dr LAU Wong-fat", "Emily LAU", "TAM Yiu-chung", "Abraham SHEK", "Tommy CHEUNG", "Frederick FUNG", "Vincent FANG", "WONG Kwok-hing", "Dr Joseph LEE", "Jeffrey LAM", "Andrew LEUNG", "WONG Ting-kwong", "Ronny TONG", "Cyd HO", "Starry LEE", "Dr LAM Tai-fai", "CHAN Hak-kan", "CHAN Kin-por", "Dr Priscilla LEUNG", "Dr LEUNG Ka-lau", "CHEUNG Kwok-che", "WONG Kwok-kin", "IP Kwok-him", "Mrs Regina IP", "Paul TSE", "Alan LEONG", "LEUNG Kwok-hung", "Albert CHAN", "WONG Yuk-man", "Claudia MO", "Michael TIEN", "James TIEN", "NG Leung-sing", "Steven HO", "Frankie YICK", "WU Chi-wai", "YIU Si-wing", "Gary FAN", "MA Fung-kwok", "Charles Peter MOK", "CHAN Chi-chuen", "CHAN Han-pan", "Dr Kenneth CHAN", "CHAN Yuen-han", "LEUNG Che-cheung", "Kenneth LEUNG", "Alice MAK", "Dr KWOK Ka-ki", "KWOK Wai-keung", "Dennis KWOK", "Christopher CHEUNG", "Dr Fernando CHEUNG", "SIN Chung-kai", "Dr Helena WONG", "IP Kin-yuen", "Dr Elizabeth QUAT", "Martin LIAO", "POON Siu-ping", "TANG Ka-piu", "Dr CHIANG Lai-wan", "Ir Dr LO Wai-kwok", "CHUNG Kwok-pan", "Christopher CHUNG", "Tony TSE" )
+
+# read legco members data
+legco.members.info <- read.csv("legco-members-info.csv")
+
+# merge data
+dataf <- merge (legco.members.info, svdv, by.x="Members", by.y="row.names")
+
 # labeling for DAB
 dataf$DAB = dataf$members
-idx = (dataf$affi=="DAB")
+idx = (dataf$Political.Affiliation=="DAB")
 dataf$DAB[!idx]=NA
 # labeling for PP
 dataf$PP = dataf$members
-idx = (dataf$affi=="PP")
+idx = (dataf$Political.Affiliation=="PP")
 dataf$PP[!idx]=NA
 #labeling for DP
 dataf$DP = dataf$members
-idx = (dataf$affi=="DP")
+idx = (dataf$Political.Affiliation=="DP")
 dataf$DP[!idx]=NA
 # plot with ggplot2
-ggplot(dataf,aes(x=v1,y=v2,color=bloc))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point()+theme_bw()
+ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc))+geom_point()+theme_bw()
+# plot with Political Affiliations
+ggplot(dataf,aes(x=V1,y=V2,color=Political.Affiliation))+geom_point()+theme_bw()
 # plot with only DAB members labeled
-ggplot(dataf,aes(x=v1,y=v2,color=bloc,label=DAB))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point(alpha=0.5)+geom_point(size=3,data=subset(dataf,affi=="DAB"))+theme_bw()
+ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc,label=DAB))+geom_point(alpha=0.5)+geom_point(size=3,data=subset(dataf,Political.Affiliation=="DAB"))+theme_bw()
 # plot with only PP members labeled
-ggplot(dataf,aes(x=v1,y=v2,color=bloc,label=DAB))+xlim(-0.2,0.2)+ylim(-0.25,0.25)+geom_point(alpha=0.5)+geom_point(size=3,data=subset(dataf,affi=="PP"))+theme_bw()
+ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc,label=PP))+geom_point(alpha=0.5)+geom_point(size=3,data=subset(dataf,Political.Affiliation=="PP"))+theme_bw()
+# plot with names
+ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc,label=Members))+geom_point(alpha=0)+geom_text()+theme_bw()
+
