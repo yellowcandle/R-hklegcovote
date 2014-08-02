@@ -29,9 +29,9 @@ ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc))+geom_point()+theme_bw()
 # plot with Political Affiliations
 ggplot(dataf,aes(x=V1,y=V2,color=Political.Affiliation))+geom_point()+theme_bw()
 # plot with only DAB members labeled
-ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc,label=DAB))+geom_point(alpha=0.5)+geom_point(size=3,data=subset(dataf,Political.Affiliation=="DAB"))+theme_bw()
+ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc,label=DAB))+geom_point(alpha=0.5)+geom_point(size=3,data=subset(dataf,Political.Affiliation=="DAB"))+theme_bw()+xlim(-.25,.25)+ylim(-.25,.25)
 # plot with only PP members labeled
-ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc,label=PP))+geom_point(alpha=0.5)+geom_point(size=3,data=subset(dataf,Political.Affiliation=="PP"))+theme_bw()
+ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc,label=PP))+geom_point(alpha=0.5)+geom_point(size=3,data=subset(dataf,Political.Affiliation=="PP"))+theme_bw()+xlim(-.25,.25)+ylim(-.25,.25)
 # plot with names
-ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc,label=Members))+geom_point(alpha=0)+geom_text()+theme_bw()
-
+ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc,label=Members))+geom_point(alpha=0)+geom_text()+theme_bw()+xlim(-.25,.25)+ylim(-.25,.25)
+ggplot(subset(dataf,Political.Bloc="D"),aes(x=V1,y=V2,color=Political.Bloc,label=Members))+geom_point(alpha=0)+geom_text()+theme_bw()+xlim(-.25,.25)+ylim(-.25,.25)
