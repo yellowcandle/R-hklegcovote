@@ -7,9 +7,13 @@ Inspired by [How divided is the Senate?](http://vikparuchuri.com/blog/how-divide
 
 # Required packages
 - [ggplot2](http://ggplot2.org/)
+- [plyr](http://plyr.had.co.nz/)
+- XML  
 
+# Example plots
 
-# Example plot
+![A plot colored by Political blocs.](https://raw.githubusercontent.com/yellowcandle/R-hklegcovote/master/Rplot09.png)
+
 ![A plot highlighting all DAB members' voting pattern.](https://raw.githubusercontent.com/yellowcandle/R-hklegcovote/master/Rplot06.png)
 
 A plot highlighting all DAB members' voting pattern.  
