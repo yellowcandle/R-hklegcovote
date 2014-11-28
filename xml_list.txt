@@ -50,3 +50,10 @@ http://www.legco.gov.hk/yr13-14/chinese/counmtg/voting/cm_vote_20140528.xml
 http://www.legco.gov.hk/yr13-14/chinese/counmtg/voting/cm_vote_20140604.xml
 http://www.legco.gov.hk/yr13-14/chinese/counmtg/voting/cm_vote_20140625.xml
 http://www.legco.gov.hk/yr13-14/chinese/counmtg/voting/cm_vote_20140709.xml
+http://www.legco.gov.hk/yr13-14/chinese/counmtg/voting/cm_vote_20141015.xml
+http://www.legco.gov.hk/yr13-14/chinese/counmtg/voting/cm_vote_20141022.xml
+http://www.legco.gov.hk/yr13-14/chinese/counmtg/voting/cm_vote_20141029.xml
+http://www.legco.gov.hk/yr13-14/chinese/counmtg/voting/cm_vote_20141105.xml
+http://www.legco.gov.hk/yr13-14/chinese/counmtg/voting/cm_vote_20141112.xml
+http://www.legco.gov.hk/yr13-14/chinese/counmtg/voting/cm_vote_20141120.xml
+http://www.legco.gov.hk/yr13-14/chinese/counmtg/voting/cm_vote_20141126.xml
