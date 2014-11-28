@@ -34,7 +34,7 @@ parse_xml <- function(filename)
   loaddf <- xmlToDataFrame(load, nodes=getNodeSet(load,"//individual-votes"),stringsAsFactors=0)
 }
 
-for (v in 1:52)
+for (v in 1:59) # see length of xml_list.txt
 {
   i <- ldply(urls[v], parse_xml, .progress="text")
   voterecords <- rbind(voterecords,i)
