@@ -10,3 +10,6 @@ num <- function(x){
 }
 g <- colwise(num)
 votedfv[,3:72] <- g(votedfv[,3:72])
+
+# Do PCA
+votepca <- prcomp(votedfv[,3:72])
