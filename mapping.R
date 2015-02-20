@@ -12,4 +12,4 @@ g <- colwise(num)
 votedfv[,3:72] <- g(votedfv[,3:72])
 
 # Do PCA
-votepca <- princomp(votedfv[,3:72])
+votepca <- prcomp(votedfv[,3:72])
