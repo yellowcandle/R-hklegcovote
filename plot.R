@@ -40,5 +40,7 @@ ggplot(subset(dataf,Political.Affiliation %in% c("DP","DAB", "LSD")),aes(x=V1,y=
 # plot with Chinese text
 ggplot(dataf,aes(x=V1,y=V2,color=Political.Bloc))+geom_point(size=3,alpha=0.6)+theme_bw()+xlim(-.25,.25)+ylim(-.25,.25)+scale_color_discrete(name="政治派系", breaks=c("D","E"),labels=c("泛民", "親建制"))+ggtitle("立法會議員投票取向")
 
-# biplot with subset of motion, education as example
+# biplot with subset of motion displayed, education as example
 biplot(votepca$x[grep("EDUCATION",votedfv$motion.name),],votepca$rotation,var.axes=0,cex=0.7)
+
+biplot(votepca,grep("EDUCATION",votedfv$motion.name),var.axes=0,cex=0.7)
