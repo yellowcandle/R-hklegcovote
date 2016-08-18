@@ -1,0 +1,5 @@
+{
+  "odata.metadata":"http://app.legco.gov.hk/VRDB/odata/$metadata#vVotingResult&$select=motion_en,vote","value":[
+    
+  ]
+}

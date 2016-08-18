@@ -1,0 +1,765 @@
+{
+  "odata.metadata":"http://app.legco.gov.hk/VRDB/odata/$metadata#vVotingResult&$select=motion_en,vote","value":[
+    {
+      "motion_en":"MOTION UNDER RULE 91 OF THE RULES OF PROCEDURE","vote":"Absent"
+    },{
+      "motion_en":"PROPOSED RESOLUTION UNDER THE PUBLIC FINANCE ORDINANCE","vote":"Absent"
+    },{
+      "motion_en":"BANKRUPTCY (AMENDMENT) BILL 2015 - COMMITTEE STAGE - THE SECRETARY FOR FINANCIAL SERVICES AND THE TREASURY\u2019S AMENDMENTS TO CLAUSES 4, 5, 13 AND 15","vote":"Absent"
+    },{
+      "motion_en":"FIXED PENALTY (PUBLIC CLEANLINESS OFFENCES) (AMENDMENT) BILL 2015 - SECOND READING","vote":"Absent"
+    },{
+      "motion_en":"FIXED PENALTY (PUBLIC CLEANLINESS OFFENCES) (AMENDMENT) BILL 2015 - COMMITTEE STAGE - CLAUSES 1, 2, 4, 5 AND 10 STAND PART OF THE BILL","vote":"Absent"
+    },{
+      "motion_en":"FIXED PENALTY (PUBLIC CLEANLINESS OFFENCES) (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON WONG YUK-MAN\u2019S AMENDMENTS TO CLAUSES 3 AND 6 TO 9","vote":"Absent"
+    },{
+      "motion_en":"FIXED PENALTY (PUBLIC CLEANLINESS OFFENCES) (AMENDMENT) BILL 2015 - COMMITTEE STAGE - CLAUSES 3 AND 6 TO 9 STAND PART OF THE BILL","vote":"Absent"
+    },{
+      "motion_en":"FIXED PENALTY (PUBLIC CLEANLINESS OFFENCES) (AMENDMENT) BILL 2015 - THIRD READING","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - SECOND READING","vote":"No"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - THE SUMS FOR HEADS 26, 27, 79, 95, 114, 136, 169, 174, 180 AND 184 STAND PART OF THE SCHEDULE","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016: MOTION UNDER RULE 40(4) OF THE RULES OF PROCEDURE THAT FURTHER PROCEEDINGS OF THE COMMITTEE OF THE WHOLE COUNCIL BE NOW ADJOURNED","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 21 (VOTE NO. 1)","vote":"Absent"
+    },{
+      "motion_en":"MOTION TO SHORTEN DURATION OF DIVISION BELL","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 21 (VOTE NO. 2)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 21 (VOTE NO. 4)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 21 (VOTE NO. 6)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 21 (VOTE NO. 7)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 21 (VOTE NO. 8)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 21 (VOTE NO. 10)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 21 (VOTE NO. 12)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 21 (VOTE NO. 13)","vote":"Yes"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 21 (VOTE NO. 14)","vote":"Yes"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 22 (VOTE NO. 17)","vote":"Yes"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 22 (VOTE NO. 18)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 22 (VOTE NO. 19)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 22 (VOTE NO. 20)","vote":"Yes"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 22 (VOTE NO. 21)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 22 (VOTE NO. 22)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 22 (VOTE NO. 24)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 22 (VOTE NO. 25)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 23 (VOTE NO. 26)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 28 (VOTE NO. 29)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 28 (VOTE NO. 30)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 28 (VOTE NO. 31)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 28 (VOTE NO. 32)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 30 (VOTE NO. 34)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 30 (VOTE NO. 35)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 30 (VOTE NO. 36)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 30 (VOTE NO. 37)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 31 (VOTE NO. 39)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 31 (VOTE NO. 41)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 33 (VOTE NO. 43)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 33 (VOTE NO. 44)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 37 (VOTE NO. 45)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 37 (VOTE NO. 47)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 37 (VOTE NO. 48)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 37 (VOTE NO. 49)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 37 (VOTE NO. 50)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 37 (VOTE NO. 51)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 42 (VOTE NO. 56)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 44 (VOTE NO. 59)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 44 (VOTE NO. 60)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 44 (VOTE NO. 61)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 44 (VOTE NO. 62)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 44 (VOTE NO. 63)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 45 (VOTE NO. 64)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 45 (VOTE NO. 65)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 45 (VOTE NO. 66)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 45 (VOTE NO. 67)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 45 (VOTE NO. 68)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 45 (VOTE NO. 69)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 45 (VOTE NO. 70)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 45 (VOTE NO. 71)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 45 (VOTE NO. 72)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 45 (VOTE NO. 73)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 74)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 75)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 76)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 77)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 78)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 79)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 80)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 81)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 82)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 83)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 84)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 85)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 86)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 87)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 88)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 89)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 90)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 91)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 92)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 93)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 94)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 95)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 46 (VOTE NO. 96)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 47 (VOTE NO. 97)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 47 (VOTE NO. 98)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 47 (VOTE NO. 99)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 48 (VOTE NO. 100)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 48 (VOTE NO. 101)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 49 (VOTE NO. 102)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 49 (VOTE NO. 104)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 51 (VOTE NO. 105)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 51 (VOTE NO. 106)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 107)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 108)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 109)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 110)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 111)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 113)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 114)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 115)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 117)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 118)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 119)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 123)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 124)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 125)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 129)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 53 (VOTE NO. 130)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 55 (VOTE NO. 131)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 55 (VOTE NO. 132)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 55 (VOTE NO. 133)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 59 (VOTE NO. 136)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 59 (VOTE NO. 137)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 59 (VOTE NO. 138)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 59 (VOTE NO. 139)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 59 (VOTE NO. 140)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 59 (VOTE NO. 141)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 60 (VOTE NO. 142)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 60 (VOTE NO. 143)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 60 (VOTE NO. 144)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 60 (VOTE NO. 145)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 60 (VOTE NO. 146)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 62 (VOTE NO. 147)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 63 (VOTE NO. 148)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 63 (VOTE NO. 149)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 63 (VOTE NO. 151)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 63 (VOTE NO. 152)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 63 (VOTE NO. 153)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 63 (VOTE NO. 154)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 63 (VOTE NO. 155)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 70 (VOTE NO. 158)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 70 (VOTE NO. 159)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 70 (VOTE NO. 162)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 70 (VOTE NO. 163)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 72 (VOTE NO. 164)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 72 (VOTE NO. 165)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 72 (VOTE NO. 167)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 74 (VOTE NO. 168)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 74 (VOTE NO. 169)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 78 (VOTE NO. 171)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 78 (VOTE NO. 172)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 80 (VOTE NO. 173)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 80 (VOTE NO. 174)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 82 (VOTE NO. 175)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 82 (VOTE NO. 176)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 82 (VOTE NO. 177)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 91 (VOTE NO. 179)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 91 (VOTE NO. 180)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 91 (VOTE NO. 181)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 91 (VOTE NO. 182)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 92 (VOTE NO. 183)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 92 (VOTE NO. 185)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 92 (VOTE NO. 187)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 92 (VOTE NO. 188)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 92 (VOTE NO. 190)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 94 (VOTE NO. 191)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 94 (VOTE NO. 192)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 96 (VOTE NO. 193)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 96 (VOTE NO. 194)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 100 (VOTE NO. 195)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 100 (VOTE NO. 196)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 100 (VOTE NO. 197)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 100 (VOTE NO. 198)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 106 (VOTE NO. 200)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 106 (VOTE NO. 201)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 106 (VOTE NO. 202)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 106 (VOTE NO. 203)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 106 (VOTE NO. 204)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 112 (VOTE NO. 205)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 112 (VOTE NO. 206)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 112 (VOTE NO. 207)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 112 (VOTE NO. 208)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 112 (VOTE NO. 209)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 112 (VOTE NO. 210)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 116 (VOTE NO. 211)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 118 (VOTE NO. 212)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 118 (VOTE NO. 213)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 118 (VOTE NO. 214)","vote":"Yes"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 118 (VOTE NO. 215)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 118 (VOTE NO. 216)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 120 (VOTE NO. 217)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 120 (VOTE NO. 218)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 120 (VOTE NO. 219)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 120 (VOTE NO. 220)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 120 (VOTE NO. 221)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 121 (VOTE NO. 222)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 121 (VOTE NO. 224)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 121 (VOTE NO. 226)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 227)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 228)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 229)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 231)","vote":"Yes"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 232)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 235)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 236)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 237)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 238)","vote":"No"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 239)","vote":"No"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 240)","vote":"No"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 241)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 242)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 244)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 246)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 248)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 249)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 250)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 252)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 122 (VOTE NO. 253)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 135 (VOTE NO. 254)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 135 (VOTE NO. 256)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 137 (VOTE NO. 257)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 137 (VOTE NO. 259)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 137 (VOTE NO. 260)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 138 (VOTE NO. 261)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 138 (VOTE NO. 262)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 138 (VOTE NO. 263)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 138 (VOTE NO. 268)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 139 (VOTE NO. 269)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 139 (VOTE NO. 271)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 140 (VOTE NO. 273)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 140 (VOTE NO. 274)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 140 (VOTE NO. 275)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 140 (VOTE NO. 276)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 141 (VOTE NO. 277)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 141 (VOTE NO. 278)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 141 (VOTE NO. 280)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 141 (VOTE NO. 282)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 141 (VOTE NO. 283)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 142 (VOTE NO. 284)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 142 (VOTE NO. 285)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 142 (VOTE NO. 288)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 142 (VOTE NO. 289)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 142 (VOTE NO. 291)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 142 (VOTE NO. 294)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 142 (VOTE NO. 296)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 143 (VOTE NO. 299)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 144 (VOTE NO. 301)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 144 (VOTE NO. 302)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 144 (VOTE NO. 304)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 144 (VOTE NO. 305)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 144 (VOTE NO. 306)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 144 (VOTE NO. 308)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 144 (VOTE NO. 309)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 144 (VOTE NO. 310)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 147 (VOTE NO. 311)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 147 (VOTE NO. 312)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 147 (VOTE NO. 314)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 148 (VOTE NO. 315)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 148 (VOTE NO. 316)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 148 (VOTE NO. 317)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 148 (VOTE NO. 318)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 148 (VOTE NO. 319)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 148 (VOTE NO. 320)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 151 (VOTE NO. 321)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 151 (VOTE NO. 322)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 151 (VOTE NO. 323)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 151 (VOTE NO. 325)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 151 (VOTE NO. 327)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 152 (VOTE NO. 328)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 152 (VOTE NO. 329)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 152 (VOTE NO. 330)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 152 (VOTE NO. 331)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 152 (VOTE NO. 332)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 152 (VOTE NO. 334)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 152 (VOTE NO. 337)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 152 (VOTE NO. 338)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 155 (VOTE NO. 339)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 155 (VOTE NO. 340)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 155 (VOTE NO. 341)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 155 (VOTE NO. 342)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 155 (VOTE NO. 343)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 156 (VOTE NO. 344)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 156 (VOTE NO. 345)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 156 (VOTE NO. 346)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 156 (VOTE NO. 347)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 156 (VOTE NO. 349)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 156 (VOTE NO. 350)","vote":"Yes"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 156 (VOTE NO. 354)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 156 (VOTE NO. 356)","vote":"Yes"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 156 (VOTE NO. 357)","vote":"Present"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 156 (VOTE NO. 360)","vote":"Yes"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 156 (VOTE NO. 361)","vote":"No"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 158 (VOTE NO. 362)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 158 (VOTE NO. 363)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 158 (VOTE NO. 366)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 158 (VOTE NO. 367)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 159 (VOTE NO. 371)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 159 (VOTE NO. 372)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 159 (VOTE NO. 373)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 159 (VOTE NO. 374)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 160 (VOTE NO. 375)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 160 (VOTE NO. 376)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 160 (VOTE NO. 377)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 163 (VOTE NO. 380)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 163 (VOTE NO. 381)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 168 (VOTE NO. 383)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 170 (VOTE NO. 384)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 170 (VOTE NO. 385)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 170 (VOTE NO. 386)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 170 (VOTE NO. 387)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 170 (VOTE NO. 388)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 170 (VOTE NO. 389)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 170 (VOTE NO. 390)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 170 (VOTE NO. 391)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 186 (VOTE NO. 394)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 186 (VOTE NO. 396)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 186 (VOTE NO. 397)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 186 (VOTE NO. 398)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 186 (VOTE NO. 399)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 186 (VOTE NO. 400)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 186 (VOTE NO. 401)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 188 (VOTE NO. 402)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 194 (VOTE NO. 406)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - AMENDMENT TO HEAD 194 (VOTE NO. 407)","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - THE SUMS FOR HEADS 21-25,28,30,31,33,37,39,42,44-49,51,53,55,59,60,62,63,70,72,74,76,78,80,82,90,91,92,94,96,100,106,112,116,118,120,121,122,135,137-144,147,148,151,152,155,156,158,159,160,162,163,166,168,170,173,181,186,188,190 AND 194 STAND PART OF THE SCHEDULE","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - SCHEDULE STAND PART OF THE BILL","vote":"Absent"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - COMMITTEE STAGE - CLAUSES 1 AND 2 STAND PART OF THE BILL","vote":"No"
+    },{
+      "motion_en":"APPROPRIATION BILL 2016 - THIRD READING","vote":"No"
+    },{
+      "motion_en":"THE HONG KONG INSTITUTE OF EDUCATION (AMENDMENT) BILL 2016 - SECOND READING","vote":"Yes"
+    },{
+      "motion_en":"THE HONG KONG INSTITUTE OF EDUCATION (AMENDMENT) BILL 2016 - THIRD READING","vote":"Yes"
+    },{
+      "motion_en":"EASTERN HARBOUR CROSSING LEGISLATION (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON WU CHI-WAI\u2019S FIRST AMENDMENT TO CLAUSE 10","vote":"Absent"
+    },{
+      "motion_en":"EASTERN HARBOUR CROSSING LEGISLATION (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON WU CHI-WAI\u2019S SECOND AMENDMENT TO CLAUSE 10","vote":"Yes"
+    },{
+      "motion_en":"EASTERN HARBOUR CROSSING LEGISLATION (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON WU CHI-WAI\u2019S THIRD AMENDMENT TO CLAUSE 10","vote":"Yes"
+    },{
+      "motion_en":"EASTERN HARBOUR CROSSING LEGISLATION (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON WU CHI-WAI\u2019S FOURTH AMENDMENT TO CLAUSE 10","vote":"Yes"
+    },{
+      "motion_en":"EASTERN HARBOUR CROSSING LEGISLATION (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON WU CHI-WAI\u2019S FIFTH AMENDMENT TO CLAUSE 10","vote":"Yes"
+    },{
+      "motion_en":"INLAND REVENUE (AMENDMENT) (NO. 2) BILL 2016 - SECOND READING","vote":"Absent"
+    },{
+      "motion_en":"INLAND REVENUE (AMENDMENT) (NO. 2) BILL 2016 - COMMITTEE STAGE - HON WONG YUK-MAN\u2019S AMENDMENTS - NEW CLAUSES 2A, 2B AND 2C BE READ THE SECOND TIME","vote":"Abstain"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - SECOND READING","vote":"Absent"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - COMMITTEE STAGE - CLAUSES 2, 3, 5, 10, 12, 13, 14, 16 TO 20, 22 AND 25 STAND PART OF THE BILL","vote":"Yes"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - COMMITTEE STAGE - THE SECRETARY FOR FINANCIAL SERVICES AND THE TREASURY\u2019S FIRST GROUP OF AMENDMENTS TO CLAUSES 4, 6 TO 9, 15, 21, 23, 24 AND 26","vote":"Yes"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - COMMITTEE STAGE - CLAUSES 6, 7, 9, 15, 21, 23, 24 AND 26 AS AMENDED STAND PART OF THE BILL","vote":"Yes"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON TAM YIU-CHUNG\u2019S FIRST GROUP OF AMENDMENTS TO CLAUSE 8","vote":"Yes"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON TAM YIU-CHUNG\u2019S SECOND GROUP OF AMENDMENTS TO CLAUSES 8 AND 11","vote":"Yes"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON TANG KA-PIU\u2019S SECOND GROUP OF AMENDMENTS TO CLAUSES 8 AND 11","vote":"Yes"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON TANG KA-PIU\u2019S REVISED THIRD GROUP OF AMENDMENTS TO CLAUSES 4, 8 AND 11","vote":"Absent"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON WONG YUK-MAN\u2019S SECOND GROUP OF AMENDMENTS TO CLAUSE 11","vote":"Absent"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - COMMITTEE STAGE - THE SECRETARY FOR FINANCIAL SERVICES AND THE TREASURY\u2019S SECOND GROUP OF AMENDMENTS TO CLAUSE 11","vote":"Absent"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - COMMITTEE STAGE - THE SECRETARY FOR FINANCIAL SERVICES AND THE TREASURY\u2019S FOURTH GROUP OF AMENDMENTS TO CLAUSE 1","vote":"Absent"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - COMMITTEE STAGE - CLAUSE 1 AS AMENDED STAND PART OF THE BILL","vote":"Absent"
+    },{
+      "motion_en":"MANDATORY PROVIDENT FUND SCHEMES (AMENDMENT) BILL 2015 - THIRD READING","vote":"Absent"
+    },{
+      "motion_en":"PROPERTY MANAGEMENT SERVICES BILL - COMMITTEE STAGE - THE SECRETARY FOR HOME AFFAIRS\u2019 AMENDMENTS TO CLAUSES 2, 4 TO 7, 10, 11, 13, 15, 16, 21, 24, 25, 26, 30, 31, 36, 37 AND 61","vote":"Absent"
+    },{
+      "motion_en":"PROMOTION OF RECYCLING AND PROPER DISPOSAL (PRODUCT CONTAINER) (AMENDMENT) BILL 2015 - SECOND READING","vote":"Absent"
+    },{
+      "motion_en":"PROMOTION OF RECYCLING AND PROPER DISPOSAL (PRODUCT CONTAINER) (AMENDMENT) BILL 2015 - THIRD READING","vote":"Absent"
+    },{
+      "motion_en":"ELECTORAL LEGISLATION (MISCELLANEOUS AMENDMENTS) (NO. 2) BILL 2015 - SECOND READING","vote":"Absent"
+    },{
+      "motion_en":"ELECTORAL LEGISLATION (MISCELLANEOUS AMENDMENTS) (NO. 2) BILL 2015 - COMMITTEE STAGE - CLAUSES 1 TO 4, 6 TO 11 AND 13 TO 71 STAND PART OF THE BILL","vote":"Absent"
+    },{
+      "motion_en":"ELECTORAL LEGISLATION (MISCELLANEOUS AMENDMENTS) (NO. 2) BILL 2015 - COMMITTEE STAGE - HON WONG YUK-MAN\u2019S AMENDMENTS - CLAUSES 5 AND 12","vote":"Absent"
+    },{
+      "motion_en":"ELECTORAL LEGISLATION (MISCELLANEOUS AMENDMENTS) (NO. 2) BILL 2015 - COMMITTEE STAGE - CLAUSES 5 AND 12 STAND PART OF THE BILL","vote":"Absent"
+    },{
+      "motion_en":"ELECTORAL LEGISLATION (MISCELLANEOUS AMENDMENTS) (NO. 2) BILL 2015 - THIRD READING","vote":"Absent"
+    },{
+      "motion_en":"PATENTS (AMENDMENT) BILL 2015 - THIRD READING","vote":"Yes"
+    },{
+      "motion_en":"JUDICIARY (FIVE-DAY WEEK) (MISCELLANEOUS AMENDMENTS) BILL 2016 - THIRD READING","vote":"Absent"
+    },{
+      "motion_en":"KAI TAK CRUISE TERMINAL BILL - SECOND READING","vote":"Yes"
+    },{
+      "motion_en":"HUMAN REPRODUCTIVE TECHNOLOGY (AMENDMENT) BILL 2015 - SECOND READING","vote":"Yes"
+    },{
+      "motion_en":"HUMAN REPRODUCTIVE TECHNOLOGY (AMENDMENT) BILL 2015 - COMMITTEE STAGE - THE SECRETARY FOR FOOD AND HEALTH\u2019S AMENDMENTS - CLAUSES 3 AND 4","vote":"Absent"
+    },{
+      "motion_en":"HUMAN REPRODUCTIVE TECHNOLOGY (AMENDMENT) BILL 2015 - THIRD READING","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - SECOND READING","vote":"Yes"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - CLAUSES 1 TO 5, 7, 11, 14 AND 15 STAND PART OF THE BILL","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON JAMES TO\u2019S 1ST GROUP OF AMENDMENTS - CLAUSES 6, 8, 16 AND 17","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - THE SECRETARY FOR SECURITY\u2019S 1ST GROUP OF AMENDMENTS - CLAUSES 9, 10, 12 AND 17","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON JAMES TO\u2019S 2ND GROUP OF AMENDMENTS - CLAUSE 13","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON WONG YUK-MAN\u2019S AMENDMENTS - CLAUSE 16","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - CLAUSE 16 STAND PART OF THE BILL","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON JAMES TO\u2019S 3RD GROUP OF AMENDMENTS - CLAUSE 18","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON JAMES TO\u2019S 4TH GROUP OF AMENDMENTS - CLAUSE 18","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON JAMES TO\u2019S 5TH GROUP OF AMENDMENTS - CLAUSE 18","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON JAMES TO\u2019S 6TH GROUP OF AMENDMENTS - CLAUSE 19","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON JAMES TO'S 7TH GROUP OF AMENDMENTS - CLAUSE 20","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON JAMES TO\u2019S 8TH GROUP OF AMENDMENTS - CLAUSE 20","vote":"Absent"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - COMMITTEE STAGE - HON JAMES TO\u2019S 9TH GROUP OF AMENDMENTS - CLAUSE 20","vote":"Yes"
+    },{
+      "motion_en":"INTERCEPTION OF COMMUNICATIONS AND SURVEILLANCE (AMENDMENT) BILL 2015 - THIRD READING","vote":"Yes"
+    },{
+      "motion_en":"INLAND REVENUE (AMENDMENT) BILL 2016 - COMMITTEE STAGE - HON JAMES TO\u2019S AMENDMENTS - CLAUSES 9 AND 11","vote":"Yes"
+    },{
+      "motion_en":"INLAND REVENUE (AMENDMENT) BILL 2016 - COMMITTEE STAGE - CLAUSES 9 AND 11 STAND PART OF THE BILL","vote":"Yes"
+    },{
+      "motion_en":"INLAND REVENUE (AMENDMENT) BILL 2016 - THIRD READING","vote":"Yes"
+    },{
+      "motion_en":"FIRST MOTION MOVED BY HON WONG YUK-MAN UNDER THE LEGISLATIVE COUNCIL (POWERS AND PRIVILEGES) ORDINANCE","vote":"Yes"
+    },{
+      "motion_en":"MOTION UNDER RULE 40(1) OF THE RULES OF PROCEDURE THAT THE SECOND READING DEBATE ON THE MEDICAL REGISTRATION (AMENDMENT) BILL 2016 BE NOW ADJOURNED","vote":"Yes"
+    },{
+      "motion_en":"MOTION UNDER RULE 55(1)(a) OF THE RULES OF PROCEDURE THAT THE MEDICAL REGISTRATION (AMENDMENT) BILL 2016 BE COMMITTED TO A SELECT COMMITTEE","vote":"Yes"
+    }
+  ]
+}
